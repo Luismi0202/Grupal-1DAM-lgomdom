@@ -1,6 +1,18 @@
 # Grupal-1DAM-lgomdom
 Trabajo Grupal De Luis Miguel, Pablo, Samuel y Angel
 
+>¿Qué características comunes comparten los IDEs en términos de edición de código, depuración y control de versiones?
+
+>¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?
+
+>¿Cuál de los IDEs elegidos consideran que es más adecuado para proyectos de desarrollo específicos y por qué?
+
+>¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?
+
+                                                          TABLA
+                                                          -----
+
+
 | Característica                        | PyCharm                                          | Visual Studio Code                       |
 |--------------------------------------|--------------------------------------------------|------------------------------------------|
 | **Lenguajes soportados**             |                                        |        |
