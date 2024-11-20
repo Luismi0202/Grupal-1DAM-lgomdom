@@ -3,8 +3,9 @@ Trabajo Grupal De Luis Miguel, Pablo, Samuel y Angel
 
 **¿Qué características comunes comparten los IDEs en términos de edición de código, depuración y control de versiones?-->**
 
-**¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?-->
-Al utilizar IntelliJ, noté mucho eso de que estaba bastante más centrado en kotlin y java ya que por ejemplo, habían muchos más plugins y te auto detectaban que usabas uno de estos dos lenguajes y te recomendaban que hacer.**
+**¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?-->**
+
+Al utilizar IntelliJ, noté mucho eso de que estaba bastante más centrado en kotlin y java ya que por ejemplo, habían muchos más plugins y te auto detectaban que usabas uno de estos dos lenguajes y te recomendaban que hacer.
 Al usar python, sin embargo, sentí que para programar en python en IntelliJ era un mundo, tardé un poco más al tener que buscar extensiones y cosas que me ayudaran a usarlo y para la generación de los ejecutables me dió un par de problemas a la hora de ejecutar que no entendí muy bien porque hasta que lo llegué a solucionar.
 
 En cuanto a Visual Studio Code, sentí todo bastante más sencillo e intuitivo, encontrando muchísimos plugins para todos los lenguajes, además de muchas opciones de personalización que estaban bastante bien y era todo bastante sencillo de ver y en mi opinión, incluso más sencillo que IntelliJ porque cuando fui a configurar cosas ahí me costó bastante más pero en visual tan solo era darle a el icono de engranaje que te salía abajo izquierda y ahí podías personalizar varios parámetros como el tema o incluso el número de tabulaciones que mete una tabulación, el número de espaciados que mete el espacio etc…
