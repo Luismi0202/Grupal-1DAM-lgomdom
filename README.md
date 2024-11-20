@@ -17,7 +17,7 @@ Si el proyecto está basado en C#, C++, .NET o necesitas herramientas de integra
 
 Si el proyecto es principalmente en Python, para desarrollo web, análisis de datos o inteligencia artificial, PyCharm es el entorno más adecuado debido a su especialización en Python y sus potentes herramientas para estos campos.
 
-**>¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?**
+**>¿Qué IDE recomendarían a un equipo de desarrollo que trabaja en proyectos de Python, Java o Kotlin y por qué?-->**
 Para java y kotlin utilizaría IntellIj  porque este IDE está especializado para estos dos 
 lenguajes.
 
