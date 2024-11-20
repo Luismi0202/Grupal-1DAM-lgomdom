@@ -42,8 +42,8 @@ Para visual studio code puedes utilizar los tres lenguajes de programación con 
 | **Característica**       | **PyCharm** | **IntelliJ IDEA** | **Visual Studio Code** |
 |--------------------------|-------------|--------------------|-------------------------|
 | **Soporte para Python**  |  El mejor porque no hace falta plugins para configurar si quiera.          | Funciona a través de pluginns peroo es más difícil de configurar                   |   Funciona bastante bien y hay bastantes extensiones que ayudan a el uso de este lenguaje.                       |
-| **Soporte para Kotlin**  |             |                    |                         |
+| **Soporte para Kotlin**  | Al estar pensado para python, es una opción pésima para trabajar en kotlin, igual puedes hacerlo.            |    Tiene soporte nativo y te ayuda muchísimo a la hora de escribir en kotlin.                |   Igual que python, funciona bien y hay una gran cantidad de extensiones.                      |
 | **Velocidad de carga**   |             |                    |                         |
 | **Soporte para plugins** |             |                    |                         |
 | **Depurador**            |             |                    |                         |
-| **Facilidad de uso**     |             |                    |                         |
+| **Facilidad de uso**     | Si trabajas en python, es bastante sencillo, sin embargo, si quieres utilizarlo para otras cosas, no deberías de usarlo            |   En nuestra opinión, nos parece algo más tosco de trabajar pero porque no estamos acostumbrados a él.                |   Es el más fácil para todos los lenguajes, al menos eso creemos.                      |
