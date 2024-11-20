@@ -2,7 +2,13 @@
 Trabajo Grupal De Luis Miguel, Pablo, Samuel y Angel
 
 **¿Qué características comunes comparten los IDEs en términos de edición de código, depuración y control de versiones?-->**
+En cuanto a la edición de código los IDEs generan un fichero específico correspondiente al lenguaje que estamos utilizando y tienen herramientas para la facilidad de dicha tarea como el resaltado de sintaxis para mejorar la legibilidad, el autocompletado de código que sugiere opciones y completa automáticamente el código según el contexto del programa.
 
+También tienen refactorización con lo cual se puede modificar la estructura del código sin cambiar la funcionalidad, formato de código que ayudan a mantener un formato consistente para facilitar la legibilidad y mantenimiento del código y una navegación eficiente con lo que se puede navegar entre funciones rápidamente.
+
+Para la depuración tienen puntos de interrupción para interrumpir la ejecución del código e inspeccionar el estado del programa, inspección de variables para comprobar el valor de las variables mientras se ejecuta el programa o cuando esté detenido en un punto de interrupción. Permiten ejecutar el código línea por línea como ayuda para comprender el comportamiento del programa y hacer un seguimiento de la pila de llamadas.
+
+Para el control de versiones los IDEs disponen de herramientas para trabajar con sistemas como GIT, SVN o Mercurial, permitiendo crear, cambiar y fusionar ramas de código,  acceder al historial de las modificaciones de los archivos, tienen los comandos de GIT integrados y herramientas visuales para la resolución de conflictos en la fusión de ramas
 **¿Qué diferencias notaron en la forma en que los IDEs manejan módulos, personalización y generación de ejecutables?-->**
 
 Al utilizar IntelliJ, noté mucho eso de que estaba bastante más centrado en kotlin y java ya que por ejemplo, habían muchos más plugins y te auto detectaban que usabas uno de estos dos lenguajes y te recomendaban que hacer.
