@@ -40,8 +40,8 @@ Para visual studio code puedes utilizar los tres lenguajes de programación con 
                                                           -----
 
 
-| Característica                        | PyCharm                                          | Visual Studio Code                       | IntelliJ
-|--------------------------------------|--------------------------------------------------|------------------------------------------||------------------------------------------
+| Característica                        | PyCharm                                          | Visual Studio Code                       | IntelliJ |
+|--------------------------------------|--------------------------------------------------|------------------------------------------||------------------------------------------ |
 | **Lenguajes soportados**             |                                        |        |
 | **Velocidad de carga**               |                                         |                                |
 | **Soporte para extensiones/plugins** |                      | |
