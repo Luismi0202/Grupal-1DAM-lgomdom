@@ -39,23 +39,11 @@ Para visual studio code puedes utilizar los tres lenguajes de programación con 
                                                           TABLA
                                                           -----
 
-
-| Característica                        | PyCharm                                          | Visual Studio Code                       | IntelliJ |
-|--------------------------------------|--------------------------------------------------|------------------------------------------||------------------------------------------ |
-| **Lenguajes soportados**             |                                        |        |
-| **Velocidad de carga**               |                                         |                                |
-| **Soporte para extensiones/plugins** |                      | |
-| **Depurador**                        |                            |                   |
-| **Refactorización**                  |                    |        |
-| **Autocompletado de código**         |              |               |
-| **Control de versiones (Git)**       |           |                   |
-| **Automatización de tareas**         |                  |                   |
-| **Soporte para múltiples lenguajes** |            | |
-| **Personalización del entorno**      |                       |  |
-| **Integración con bases de datos**   |             |            |
-| **Pruebas automatizadas**            |                          |               |
-| **Soporte para frameworks**          |               |         |
-| **Configuración de entornos virtuales** |      |               |
-| **Herramientas de análisis de código** | |                  |
-| **Soporte para compilación/maven/gradle** |                     |              |
-| **Precio/licencia**                  |  |             |
+| **Característica**       | **PyCharm** | **IntelliJ IDEA** | **Visual Studio Code** |
+|--------------------------|-------------|--------------------|-------------------------|
+| **Soporte para Python**  |  El mejor porque no hace falta plugins para configurar si quiera.          | Funciona a través de pluginns peroo es más difícil de configurar                   |   Funciona bastante bien y hay bastantes extensiones que ayudan a el uso de este lenguaje.                       |
+| **Soporte para Kotlin**  |             |                    |                         |
+| **Velocidad de carga**   |             |                    |                         |
+| **Soporte para plugins** |             |                    |                         |
+| **Depurador**            |             |                    |                         |
+| **Facilidad de uso**     |             |                    |                         |
